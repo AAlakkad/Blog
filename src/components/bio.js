@@ -1,6 +1,6 @@
-import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
+import { graphql, useStaticQuery } from 'gatsby'
 import Image from 'gatsby-image'
+import React from 'react'
 
 function Bio() {
   const { site, avatar } = useStaticQuery(
@@ -57,7 +57,7 @@ function Bio() {
         {shortBio ? ` ${shortBio}` : ''}.{` `}
         {social.twitter ? (
           <a href={`https://twitter.com/${social.twitter}`}>
-            You should follow them on Twitter.
+            Follow on Twitter.
           </a>
         ) : null}
       </p>

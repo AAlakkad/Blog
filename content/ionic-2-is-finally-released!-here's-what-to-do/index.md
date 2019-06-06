@@ -1,14 +1,14 @@
 ---
-title: "Ionic 2 is finally released! here’s what to do"
-description: "The time has arrived when we stopped waiting for Ionic 2 to be release, and now it’s time to get our hands dirty! 4. If you’re already familiar with Ionic 1, check out the differences introduced in…"
-date: "2017-01-25T19:04:59.207Z"
-categories: 
+title: 'Ionic 2 is finally released! here’s what to do'
+description: 'The time has arrived when we stopped waiting for Ionic 2 to be release, and now it’s time to get our hands dirty! 4. If you’re already familiar with Ionic 1, check out the differences introduced in…'
+date: '2017-01-25T19:04:59.207Z'
+categories:
   - Ionic
   - Angularjs
   - Tech
   - Ionic2
 
-published: true
+published: false
 canonical_link: https://medium.com/tooling-tips/ionic-2-is-finally-released-heres-what-to-do-7f629adf0f34
 redirect_from:
   - /ionic-2-is-finally-released-heres-what-to-do-7f629adf0f34
