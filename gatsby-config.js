@@ -11,7 +11,7 @@ const configuration = {
   // a longer bio showing on the landing page of the blog
   bio: `Web Developer.`,
   author: 'Ammar Alakkad',
-  githubUrl: 'https://github.com/',
+  githubUrl: 'https://github.com/AAlakkad',
   // replace this by the url where your website will be published
   siteUrl: 'http://localhost:8000',
   social: {
@@ -19,7 +19,7 @@ const configuration = {
     twitter: 'Am_Alakkad',
     medium: '@AAlakkad',
     facebook: '',
-    github: '',
+    github: 'AAlakkad',
     linkedin: '',
     instagram: '',
   },
