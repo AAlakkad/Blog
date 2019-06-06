@@ -17,10 +17,10 @@ const configuration = {
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'Am_Alakkad',
-    medium: '@AAlakkad',
+    medium: '',
     facebook: '',
     github: 'AAlakkad',
-    linkedin: '',
+    linkedin: 'aalakkad',
     instagram: '',
   },
 }

@@ -1,7 +1,6 @@
-import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
+import { graphql, useStaticQuery } from 'gatsby'
 import Image from 'gatsby-image'
-
+import React from 'react'
 import './main-bio.css'
 
 const socialURLs = {
@@ -115,7 +114,7 @@ function Bio() {
           marginBottom: 0,
           minWidth: 150,
           borderRadius: '100%',
-          border: '8px solid lavender',
+          border: '8px solid #d3eaf6',
         }}
         imgStyle={{
           borderRadius: '50%',
