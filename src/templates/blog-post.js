@@ -1,13 +1,11 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import MDXRenderer from 'gatsby-mdx/mdx-renderer'
-
-import SEO from '../components/seo'
-import Pills from '../components/pills'
+import React from 'react'
 import Bio from '../components/bio'
 import Embed from '../components/embed'
+import Pills from '../components/pills'
+import SEO from '../components/seo'
 import { formatPostDate, formatReadingTime } from '../utils/dates'
-
 import './blog-post.css'
 
 export default function PageTemplate({ data: { mdx, site }, pageContext }) {
@@ -64,7 +62,7 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
                 mdx.fields.slug
               }index.md`}
             >
-              Edit this post on GitHub
+              Edit
             </a>
           </small>
           <hr
