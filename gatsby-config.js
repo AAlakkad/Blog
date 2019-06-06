@@ -11,7 +11,7 @@ const configuration = {
   // a longer bio showing on the landing page of the blog
   bio: `Web Developer.`,
   author: 'Ammar Alakkad',
-  githubUrl: 'https://github.com/AAlakkad',
+  githubUrl: 'https://github.com/AAlakkad/blog',
   // replace this by the url where your website will be published
   siteUrl: 'https://aalakkad.netlify.com',
   social: {
