@@ -17,8 +17,6 @@ redirect_from:
 
 ![](./asset-1.png)
 
-<Embed src="https://play.ht/embed/?article_url=https://medium.com/_p/my-current-development-setup-83cd83976864" aspectRatio={0.264} />
-
 I might have changed my setup a million times already, but this is how it looks now. Hope you find something useful ☕️
 
 The content is divided on 3 sections:
